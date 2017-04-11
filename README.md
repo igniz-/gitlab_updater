@@ -1,5 +1,5 @@
 # gitlab_updater
-Small script to update gitlab by downloading the latest package (ubuntu)
+Small script to update gitlab by downloading the latest package (ubuntu, but can be easily modified for other distros)
 
 See comments in the file for instructions.
 
